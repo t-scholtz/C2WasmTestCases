@@ -1,0 +1,3 @@
+When run on Linux OS, GCC will compile differenlty to Clang
+However when compiled on Mac OS, GCC and Clang behave similarly
+Wasm will mimic Linux OS gcc compilation
