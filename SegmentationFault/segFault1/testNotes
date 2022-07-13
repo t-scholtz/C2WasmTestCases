@@ -1,0 +1,4 @@
+Whilst gcc, clang and llvm with not run and say segment fault
+
+The wasm will print  the end statment, though it will
+give a message : Aborted(Runtime error: The application has corrupted its heap memory area (address zero)!)

@@ -1,3 +1,7 @@
 When run on Linux OS, GCC will compile differenlty to Clang
 However when compiled on Mac OS, GCC and Clang behave similarly
 Wasm will mimic Linux OS gcc compilation
+
+Code manipulates memory outside of the bounds of the declared arrays.  Accessing memory outside the bounds of an array is undefined behavouss causing differences in outcome
+
+" The C standard leaves some decisions to compiler writers.  This means that the same code compiled with different compilers, or the same compiler on different platforms, may behave differently and still be standards-compliant. "

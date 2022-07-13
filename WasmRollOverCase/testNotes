@@ -1,0 +1,4 @@
+By changing line 20, assembly roll over changes occur,
+causing several changes to the wat files.
+Unique case where a small change in the C file causes
+a large change in the Wat file

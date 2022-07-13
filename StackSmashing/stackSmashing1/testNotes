@@ -1,0 +1,11 @@
+Both Clang and wasm semm to run without complications printing:
+string-1 length = 7, String a = StringA StringB
+
+
+GCC will output:
+string-1 length = 7, String a = StringA StringB
+*** stack smashing detected ***: terminated
+Aborted (core dumped)
+
+
+llvm will stack smash

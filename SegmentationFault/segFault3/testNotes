@@ -1,0 +1,6 @@
+Gcc, clang and llvm give seg Fault and don't run
+however Wasm appears to run without any problems
+
+Wasm output:
+value stored = GnG
+End
