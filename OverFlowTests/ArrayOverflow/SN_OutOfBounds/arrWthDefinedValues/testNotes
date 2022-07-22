@@ -1,0 +1,1 @@
+When using the Wasm3 tool, I get the lowest index value for any negative overflow in an array, but I do not get this behavour from emsripten.

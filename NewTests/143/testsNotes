@@ -1,0 +1,2 @@
+I came across a case where gcc and clang will have different outputs, and somtime wasm will agree with Gcc and sometimes agree with clang. I think it might be UB 
+as Wasm will sometimes complile to produce different outputs

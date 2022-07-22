@@ -1,0 +1,1 @@
+This shows the number of times the loop must repeat for the gcc and clang to have differing output. test.c loops 16 times whereas testA loops 17 times

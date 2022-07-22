@@ -1,0 +1,2 @@
+Mutant gerated by changeing 
+n = (count+7) / 8; to n = (count+7) * 8;

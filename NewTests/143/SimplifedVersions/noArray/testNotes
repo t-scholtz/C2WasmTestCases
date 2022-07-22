@@ -1,0 +1,2 @@
+Theses tests show that  the difference is due to pointers pointing to random locations in memory, 
+however I'm still not sure why gcc and clang might have different outputs
